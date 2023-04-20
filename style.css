@@ -1,0 +1,194 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+section {
+    height: 730px;
+}
+
+.sec-1 {
+
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+
+
+    margin: auto;
+    text-align: center;
+}
+
+.header-txt {
+    color: white;
+    font-size: 80px;
+}
+
+.mid-txt {
+    font-size: 50px;
+
+
+}
+
+p {
+
+    text-align: center;
+}
+
+.header_p {
+    color: white;
+}
+
+.donate_link {
+    text-decoration: none;
+    color: white;
+    background-color: #ff5959;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+}
+
+.top {
+    display: grid;
+    place-items: center;
+    padding-top: 250px;
+}
+
+.cash_amount h3 {
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #707070;
+}
+
+#spc_tk {
+    color: #ff5959;
+    background-color: #ffeeee;
+    padding: 30px 10px;
+    border-color: #ff5959;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 20px;
+    width: 40%;
+    text-align: center;
+    margin-bottom: 30px;
+    outline: none;
+}
+
+.plan_section {
+    display: flex;
+    height: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+#d1 {
+    padding: 10px;
+    margin-right: 20px;
+    margin-right: 20px;
+    background-color: #edf5f6;
+    border-radius: 5px;
+}
+
+#d2 {
+    padding: 10px;
+    margin-right: 20px;
+    margin-right: 20px;
+    background-color: #ffeeee;
+    border-radius: 5px;
+}
+
+#d3 {
+    padding: 10px;
+    margin-right: 20px;
+    margin-right: 20px;
+    background-color: #fff4d6;
+    border-radius: 5px;
+}
+
+.food {
+    display: flex;
+    margin-top: 200px;
+}
+
+.half-w {
+    width: 50%;
+    place-items: center;
+}
+
+#h2id {
+    font-size: 40px;
+
+}
+
+.half-w h2 {
+    margin-left: 90px;
+}
+
+.half-w p {
+    margin-left: 90px;
+    margin-right: 140px;
+    margin-bottom: 50px;
+}
+
+.half-w a {
+
+    place-items: center;
+    margin-left: 33%;
+
+}
+
+.half-w img {
+    width: 70%;
+    height: 70%;
+    margin-left: 100px;
+}
+
+.bottom_input {
+
+    border: 1px solid #d9d9d9;
+    font-size: 20px;
+    width: 300px;
+    height: 35px;
+    background-color: #d9d9d9;
+    text-align: start;
+    margin-top: 10%;
+    margin-left: 20%;
+
+}
+
+.botton {
+    background-color: #fff4d6;
+    width: 700px;
+    height: 200px;
+
+
+}
+
+footer {
+    background-color: black;
+    height: 150px;
+
+}
+
+footer h1 {
+    padding-top: 30px;
+    color: #ff5959;
+}
+
+footer p {
+    color: white;
+    margin: 0;
+    padding-bottom: 30px;
+}
